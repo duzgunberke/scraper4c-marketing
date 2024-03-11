@@ -29,7 +29,7 @@ const Pricing = () => {
 
         <Heading
           tag="Get started with Scraper4C"
-          title="Pay once, use forever"
+          title="Get monthly access at an incredibly affordable price!"
         />
 
         <div className="relative">

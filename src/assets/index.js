@@ -1,5 +1,5 @@
-import brainwave from "./brainwave.svg";
 import check from "./check.svg";
+import logo from "./logo.png";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
 import play from "./play.svg";
@@ -80,7 +80,6 @@ import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
 export {
-  brainwave,
   check,
   check2,
   loading1,
@@ -96,6 +95,7 @@ export {
   searchMd,
   plusSquare,
   recording03,
+  logo,
   recording01,
   disc02,
   chromecast,

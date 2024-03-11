@@ -82,7 +82,7 @@ export const companyLogos = [vercelLogo, supabaseLogo, pineconeLogo, amazonLogo,
 
 export const scraper4cServices = [
   "Use Dataset API",
-  "Scrape Panel",
+  "Advanced Panel",
   "Entity Search",
 ];
 
@@ -97,36 +97,36 @@ export const brainwaveServicesIcons = [
 export const roadmap = [
   {
     id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
+    title: "Data Scraping Service",
+    text: "Develop a user-friendly panel allowing users to select websites and categories for data scraping, expanding our dataset continuously.",
+    date: "Feb 2024",
     status: "done",
-    imageUrl: roadmap1,
+    imageUrl: roadmap3,
     colorful: true,
   },
   {
     id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
-    status: "progress",
+    title: "Data Set API",
+    text: "Implement an API to provide curated datasets to clients, allowing selection based on categories, price ranges, and custom search parameters.",
+    date: "Feb 2024",
+    status: "done",
     imageUrl: roadmap2,
   },
   {
     id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
+    title: "Entity Search",
+    text: "Develop a search functionality to enable users to find products or services based on specific criteria, utilizing image recognition and similarity comparison algorithms.",
     date: "May 2023",
     status: "done",
-    imageUrl: roadmap3,
+    imageUrl: roadmap4,
   },
   {
     id: "3",
-    title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
+    title: "Voice Recognition",
+    text: "Enable voice commands for searching products or services, enhancing user experience and accessibility.",
     date: "May 2023",
     status: "progress",
-    imageUrl: roadmap4,
+    imageUrl: roadmap1,
   },
 ];
 
@@ -136,7 +136,7 @@ export const collabText =
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
+    title: "Seamless Mining",
     text: collabText,
   },
   {
@@ -248,16 +248,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Streamlined Market Research",
+    text: "Accelerate your market research efforts by accessing a vast array of datasets, enabling you to identify trends, understand consumer behavior, and uncover valuable insights with ease.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Customizable Search Parameters:",
+    text: "Tailor your data extraction process with customizable search parameters, allowing you to refine results based on specific criteria and extract precisely what you need.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -265,16 +265,16 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "Continuous Data Growth:",
+    text: "Expand your dataset effortlessly and continuously, ensuring you always have access to the latest and most comprehensive information across various domains.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "AI-Powered Insights:",
+    text: "Gain valuable insights from scraped data through AI-driven analysis, empowering you to make informed decisions and stay ahead of the competition",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -282,16 +282,16 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Effortless Data Mining:",
+    text: "Seamlessly extract valuable data from any website or category with just a few clicks, boosting your efficiency and saving valuable time.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Enhanced Product Recommendations",
+    text: "Utilize AI-powered algorithms to analyze user preferences and behavior, providing personalized product recommendations that drive engagement and boost sales.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
