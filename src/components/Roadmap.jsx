@@ -27,8 +27,8 @@ const Roadmap = () => (
                   <img
                     className="w-full"
                     src={grid}
-                    width={550}
-                    height={550}
+                    width={400}
+                    height={400}
                     alt="Grid"
                   />
                 </div>
@@ -48,9 +48,9 @@ const Roadmap = () => (
                     </div>
                   </div>
 
-                  <div className="mb-10 -my-10 -mx-15">
+                  <div className="mb-10 -my-3 -mx-1 rounded-full">
                     <img
-                      className="w-full"
+                      className="w-full rounded-full"
                       src={item.imageUrl}
                       width={628}
                       height={426}
