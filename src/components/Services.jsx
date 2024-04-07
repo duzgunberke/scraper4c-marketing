@@ -14,7 +14,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Designed for anyone seeking effortless data access and analysis."
-          text="Scraper4C unlocks the potential of AI-powered data mining"
+          text="DataDex Plus unlocks the potential of AI-powered data mining"
         />
 
         <div className="relative">
@@ -32,7 +32,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Smartest Panel</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Scraper4C unlocks the potential of AI-powered 
+              DataDex+ unlocks the potential of AI-powered 
               </p>
               <ul className="body-2">
                 {scraper4cServices.map((item, index) => (

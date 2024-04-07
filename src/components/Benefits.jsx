@@ -11,7 +11,7 @@ const Benefits = () => {
       <div className="container relative z-2">
         <Heading
           className="md:max-w-md lg:max-w-2xl"
-          title="Unlock the power of effortless data extraction and intelligent search with Scraper4C."
+          title="Unlock the power of effortless data extraction and intelligent search with DataDex Plus."
         />
 
         <div className="flex flex-wrap gap-10 mb-10">

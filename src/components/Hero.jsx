@@ -25,7 +25,7 @@ const Hero = () => {
           <h1 className="h1 mb-6">
             Explore the Possibilities of&nbsp;AI&nbsp;Data Mining with {` `}
             <span className="inline-block relative">
-              Scraper4C{" "}
+            DataDex Plus{" "}
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-0"
@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-      Elevate your productivity with Scraper4C, the  AI-powered platform that streamlines data extraction and intelligent search
+      Elevate your productivity with DataDex Plus, the  AI-powered platform that streamlines data extraction and intelligent search
           </p>
           <Button href="http://localhost:3000" white>
             Get started

@@ -27,8 +27,8 @@ const Roadmap = () => (
                   <img
                     className="w-full"
                     src={grid}
-                    width={400}
-                    height={400}
+                    width={550}
+                    height={550}
                     alt="Grid"
                   />
                 </div>

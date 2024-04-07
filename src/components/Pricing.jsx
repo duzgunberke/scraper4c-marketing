@@ -28,7 +28,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Scraper4C"
+          tag="Get started with DataDex+"
           title="Get monthly access at an incredibly affordable price!"
         />
 
