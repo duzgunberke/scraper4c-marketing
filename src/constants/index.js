@@ -28,7 +28,6 @@ import {
   roadmap2,
   roadmap3,
   roadmap4,
-  roadmap5,
   searchMd,
   slack,
   sliders04,
@@ -128,15 +127,7 @@ export const roadmap = [
     date: "Mar 2024",
     status: "progress",
     imageUrl: roadmap1,
-  },
-  {
-    id: "4",
-    title: "Web Security Vulnerability Detection",
-    text: "Introducing our latest innovation: an AI-powered service designed to revolutionize web security. Our service meticulously scans websites, identifying vulnerabilities and offering robust security recommendations. With the power of artificial intelligence, we ensure that your online presence remains protected against potential threats. Say goodbye to security breaches and hello to peace of mind with our cutting-edge solution.",
-    date: "Mar 2024",
-    status: "progress",
-    imageUrl: roadmap5,
-  },
+  }
 ];
 
 export const collabText =
