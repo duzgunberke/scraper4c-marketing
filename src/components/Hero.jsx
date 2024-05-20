@@ -38,7 +38,7 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
       Elevate your productivity with DataDex Plus, the  AI-powered platform that streamlines data extraction and intelligent search
           </p>
-          <Button href="http://localhost:3000" white>
+          <Button href="#features" white>
             Get started
           </Button>
         </div>

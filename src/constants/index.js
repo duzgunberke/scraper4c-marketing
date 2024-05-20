@@ -213,7 +213,7 @@ export const pricing = [
     id: "0",
     title: "Dataset API",
     description: "Provide firms or individuals with selected datasets, categorized by price range, search parameters, etc., akin to those found on Kaggle, for a fee.",
-    price: "9.99",
+    price: "19.99",
     features: [
       "Consistent and up-to-date datasets",
       "Manual or regular background service for data control and updates",
@@ -224,7 +224,7 @@ export const pricing = [
     id: "2",
     title: "Entity Search",
     description: "Offer a versatile search service enabling users to find similar products or services based on their description, image, or text input.",
-    price: "19.99",
+    price: "29.99",
     features: [
       "Visual and text-based search functionality",
       "Comparison of similarity ratios between generated images and existing dataset",
@@ -256,7 +256,7 @@ export const benefits = [
   },
   {
     id: "1",
-    title: "Customizable Search Parameters:",
+    title: "Customizable Search Parameters",
     text: "Tailor your data extraction process with customizable search parameters, allowing you to refine results based on specific criteria and extract precisely what you need.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
@@ -265,7 +265,7 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Continuous Data Growth:",
+    title: "Continuous Data Growth",
     text: "Expand your dataset effortlessly and continuously, ensuring you always have access to the latest and most comprehensive information across various domains.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
@@ -273,7 +273,7 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "AI-Powered Insights:",
+    title: "AI-Powered Insights",
     text: "Gain valuable insights from scraped data through AI-driven analysis, empowering you to make informed decisions and stay ahead of the competition",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
@@ -282,7 +282,7 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Effortless Data Mining:",
+    title: "Effortless Data Mining",
     text: "Seamlessly extract valuable data from any website or category with just a few clicks, boosting your efficiency and saving valuable time.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
